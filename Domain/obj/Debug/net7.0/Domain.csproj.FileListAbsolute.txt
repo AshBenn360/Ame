@@ -1,0 +1,12 @@
+E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Domain\bin\Debug\net7.0\Domain.deps.json
+E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Domain\bin\Debug\net7.0\Domain.dll
+E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Domain\bin\Debug\net7.0\Domain.pdb
+E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Domain\obj\Debug\net7.0\Domain.dll
+E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Domain\obj\Debug\net7.0\refint\Domain.dll
+E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Domain\obj\Debug\net7.0\Domain.pdb
+E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Domain\obj\Debug\net7.0\ref\Domain.dll

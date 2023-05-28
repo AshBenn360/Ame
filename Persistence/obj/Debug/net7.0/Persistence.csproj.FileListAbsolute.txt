@@ -1,0 +1,15 @@
+E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Persistence\bin\Debug\net7.0\Persistence.deps.json
+E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Persistence\bin\Debug\net7.0\Persistence.dll
+E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Persistence\bin\Debug\net7.0\Persistence.pdb
+E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Persistence\bin\Debug\net7.0\Domain.dll
+E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Persistence\bin\Debug\net7.0\Domain.pdb
+E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Persistence\obj\Debug\net7.0\Persistence.dll
+E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Persistence\obj\Debug\net7.0\Persistence.pdb
+E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Persistence\obj\Debug\net7.0\ref\Persistence.dll
