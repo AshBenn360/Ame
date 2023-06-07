@@ -1687,11 +1687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Sandbox\\CQRSTemplate\\CQRSWebApiTemplate\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Source\\Projects\\Training\\Blazor\\Ame\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "E:\\Sandbox\\CQRSTemplate\\CQRSWebApiTemplate\\Application\\Application.csproj",
+      "projectPath": "C:\\Source\\Projects\\Training\\Blazor\\Ame\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\ashle\\.nuget\\packages\\",
-      "outputPath": "E:\\Sandbox\\CQRSTemplate\\CQRSWebApiTemplate\\Application\\obj\\",
+      "outputPath": "C:\\Source\\Projects\\Training\\Blazor\\Ame\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1707,18 +1707,17 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "E:\\Nuget\\Library": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\Sandbox\\CQRSTemplate\\CQRSWebApiTemplate\\Domain\\Domain.csproj": {
-              "projectPath": "E:\\Sandbox\\CQRSTemplate\\CQRSWebApiTemplate\\Domain\\Domain.csproj"
+            "C:\\Source\\Projects\\Training\\Blazor\\Ame\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Source\\Projects\\Training\\Blazor\\Ame\\Domain\\Domain.csproj"
             },
-            "E:\\Sandbox\\CQRSTemplate\\CQRSWebApiTemplate\\Persistence\\Persistence.csproj": {
-              "projectPath": "E:\\Sandbox\\CQRSTemplate\\CQRSWebApiTemplate\\Persistence\\Persistence.csproj"
+            "C:\\Source\\Projects\\Training\\Blazor\\Ame\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Source\\Projects\\Training\\Blazor\\Ame\\Persistence\\Persistence.csproj"
             }
           }
         }
@@ -1762,7 +1761,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

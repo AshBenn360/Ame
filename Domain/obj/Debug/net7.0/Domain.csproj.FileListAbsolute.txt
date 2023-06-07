@@ -10,3 +10,15 @@ E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Domain\obj\Debug\net7.0\D
 E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Domain\obj\Debug\net7.0\refint\Domain.dll
 E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Domain\obj\Debug\net7.0\Domain.pdb
 E:\Projects\Clients\GallagherIT\Projects\ArtistSurface\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Source\Projects\Training\Blazor\Ame\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Source\Projects\Training\Blazor\Ame\Domain\bin\Debug\net7.0\Domain.dll
+C:\Source\Projects\Training\Blazor\Ame\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Source\Projects\Training\Blazor\Ame\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Source\Projects\Training\Blazor\Ame\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Projects\Training\Blazor\Ame\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Source\Projects\Training\Blazor\Ame\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Source\Projects\Training\Blazor\Ame\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Source\Projects\Training\Blazor\Ame\Domain\obj\Debug\net7.0\Domain.dll
+C:\Source\Projects\Training\Blazor\Ame\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Source\Projects\Training\Blazor\Ame\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Source\Projects\Training\Blazor\Ame\Domain\obj\Debug\net7.0\ref\Domain.dll

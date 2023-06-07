@@ -2889,11 +2889,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Sandbox\\CQRSTemplate\\CQRSWebApiTemplate\\API\\API.csproj",
+      "projectUniqueName": "C:\\Source\\Projects\\Training\\Blazor\\Ame\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "E:\\Sandbox\\CQRSTemplate\\CQRSWebApiTemplate\\API\\API.csproj",
+      "projectPath": "C:\\Source\\Projects\\Training\\Blazor\\Ame\\API\\API.csproj",
       "packagesPath": "C:\\Users\\ashle\\.nuget\\packages\\",
-      "outputPath": "E:\\Sandbox\\CQRSTemplate\\CQRSWebApiTemplate\\API\\obj\\",
+      "outputPath": "C:\\Source\\Projects\\Training\\Blazor\\Ame\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2909,15 +2909,14 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "E:\\Nuget\\Library": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\Sandbox\\CQRSTemplate\\CQRSWebApiTemplate\\Application\\Application.csproj": {
-              "projectPath": "E:\\Sandbox\\CQRSTemplate\\CQRSWebApiTemplate\\Application\\Application.csproj"
+            "C:\\Source\\Projects\\Training\\Blazor\\Ame\\Application\\Application.csproj": {
+              "projectPath": "C:\\Source\\Projects\\Training\\Blazor\\Ame\\Application\\Application.csproj"
             }
           }
         }
@@ -2974,7 +2973,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

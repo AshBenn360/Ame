@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T0EKnpJ1PJDwiFNLR5KHi2dTQ4HEH4Qjws1Q+XY3BJr/KfttR7MyaY5uQxD4UGO2LQ2lGfFBJvMVIc3QpRicZw==",
+  "dgSpecHash": "raRFpCjjQ7aZY8SFBAKXfJF/L6XaeecIKrnb5uay1rM7pMTc8LtGmyhs1hskdIut0RSHYqXeC0ypXuL8clG9mQ==",
   "success": true,
-  "projectFilePath": "E:\\Sandbox\\CQRSTemplate\\CQRSWebApiTemplate\\API\\API.csproj",
+  "projectFilePath": "C:\\Source\\Projects\\Training\\Blazor\\Ame\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ashle\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\ashle\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
